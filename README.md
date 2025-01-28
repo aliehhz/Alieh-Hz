@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Alieh Hassanzadeh, a data scientist passionate about machine learning and AI.
-- 👀 please Follow me, @alieh-hz
+- 👀 Please Follow me, @alieh-hz
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: alieh.h94@gmail.com
