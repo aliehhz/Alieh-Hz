@@ -28,7 +28,9 @@ I’m passionate about creating robust workflows that deliver real-world impact.
 
 ## 📬 Let’s Connect
 
-- ✉️ Email: [alieh.h94@gmail.com](mailto:alieh.h94@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/aliehhz](https://www.linkedin.com/in/aliehhz)  
-- 🎯 Portfolio: <!--  [your-portfolio-url.com](https://your-portfolio-url.com)  -->
-- 📺 YouTube: [youtube.com/@aliehhz](https://www.youtube.com/@aliehhz)
+- ✉️ **Email**: [alieh.h94@gmail.com](mailto:alieh.h94@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/aliehhz](https://www.linkedin.com/in/aliehhz)  
+- 📺 **YouTube**: [youtube.com/@aliehhz](https://www.youtube.com/@aliehhz)  
+<!--- - 🎯 Portfolio: [Visit my website](https://aliehhz.github.io) -->
+
+
