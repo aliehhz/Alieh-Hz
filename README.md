@@ -15,14 +15,14 @@ I’m passionate about creating robust workflows that deliver real-world impact.
 
 ## 🔧 Skills & Expertise
 
-- <span style="color:green;">**Programming & Databases**: Python (NumPy, Pandas, Scikit-learn), SQL, HTML  
-- <span style="color:green;"> **ML Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn  
-- <span style="color:green;">**Model Development**: Supervised (Classification, Regression), Unsupervised (Clustering, Dimensionality Reduction), Deep Learning (MLP, CNN)  
-- <span style="color:green;">**NLP & Text**: Transformers, spaCy, NLTK, Hugging Face  
-- <span style="color:green;">**Computer Vision**</span>: OpenCV, PyTorch  
-- <span style="color:green;">**Data Processing & Visualization**: Feature engineering, Matplotlib, Seaborn  
-- <span style="color:green;">**Cloud & Deployment**: AWS (S3, EC2, CodePipeline), Docker, GitHub Actions, Flask  
-- <span style="color:green;">**Version Control & Collaboration**</span>: Git, GitHub  
+- **Programming & Databases**: Python (NumPy, Pandas, Scikit-learn), SQL, HTML  
+- **ML Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn  
+- **Model Development**: Supervised (Classification, Regression), Unsupervised (Clustering, Dimensionality Reduction), Deep Learning (MLP, CNN)  
+- **NLP & Text**: Transformers, spaCy, NLTK, Hugging Face  
+- **Computer Vision**</span>: OpenCV, PyTorch  
+- **Data Processing & Visualization**: Feature engineering, Matplotlib, Seaborn  
+- **Cloud & Deployment**: AWS (S3, EC2, CodePipeline), Docker, GitHub Actions, Flask  
+- **Version Control & Collaboration**</span>: Git, GitHub  
 
 ---
 
@@ -30,5 +30,5 @@ I’m passionate about creating robust workflows that deliver real-world impact.
 
 - ✉️ Email: [alieh.h94@gmail.com](mailto:alieh.h94@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/aliehhz](https://www.linkedin.com/in/aliehhz)  
-- 🎯 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)  
+- 🎯 Portfolio: <!--  [your-portfolio-url.com](https://your-portfolio-url.com)  -->
 - 📺 YouTube: [youtube.com/@aliehhz](https://www.youtube.com/@aliehhz)
