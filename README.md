@@ -1,59 +1,32 @@
 # Hi there 👋 I’m Alieh Hassanzadeh
 
-I’m a Machine Learning Specialist with a B.Sc. in Information Technology and 5+ years of hands-on experience spanning IT operations and ML engineering. I architect and deploy end-to-end machine learning pipelines—including NLP and computer-vision workflows—that turn raw data into production-ready services:
+I’m a Machine Learning Specialist with a B.Sc. in Information Technology and 5+ years of hands-on experience spanning IT operations and ML engineering. I specialize in building end-to-end ML pipelines, including NLP and computer-vision workflows, that turn raw data into production-ready services:
 
-- **Data Engineering**  
-  Ingesting, cleaning & transforming large datasets with Pandas & NumPy  
-- **Model Development**  
-  Rapid prototyping, training & fine-tuning with Scikit-learn, TensorFlow & Keras  
-- **NLP & Text Processing**  
-  Building transformer-based pipelines, tokenization, Named Entity Recognition (spaCy, Hugging Face)  
-- **Computer Vision**  
-  Image classification & object detection with OpenCV, PyTorch & TensorFlow  
-- **Containerization & APIs**  
-  Packaging models in Docker containers and serving them via Flask endpoints  
-- **Cloud Deployments**  
-  Automating scalable deployments on AWS (S3, EC2, CodePipeline)  
+- **Data Engineering**: Ingest, clean & transform large datasets with Pandas & NumPy  
+- **Model Development**: Prototype, train, and fine-tune models using Scikit-learn, TensorFlow & Keras  
+- **NLP & Text Processing**: Build transformer-based pipelines, tokenization, and Named Entity Recognition (spaCy, Hugging Face)  
+- **Computer Vision**: Image classification & object detection with OpenCV, PyTorch & TensorFlow  
+- **Containerization & APIs**: Deploy models with Docker and Flask endpoints  
+- **Cloud Deployments**: Automate scalable solutions with AWS (S3, EC2, CodePipeline)
 
-I’m passionate about building robust, maintainable workflows that deliver real-world impact. Let’s connect and create something amazing!
+I’m passionate about creating robust workflows that deliver real-world impact. Let’s connect and make something amazing!
 
 ---
 
 ## 🔧 Skills & Expertise
 
-**Programming & Databases**  
-- Python (`NumPy`, `Pandas`, `Scikit-learn`)  
-- SQL, HTML
-
-**ML Frameworks & Libraries**  
-- TensorFlow, Keras, PyTorch  
-- Scikit-learn
-
-**Model Development**  
-- **Supervised**: Classification, Regression  
-- **Unsupervised**: Clustering, Dimensionality Reduction  
-- **Deep Learning**: MLP, CNN  
-- **NLP & Text**: Transformers, spaCy, NLTK, Hugging Face  
-- **Computer Vision**: OpenCV
-
-**Data Processing & Visualization**  
-- Data cleaning & feature engineering  
-- Visualization: Matplotlib, Seaborn
-
-**Cloud & Deployment**  
-- **AWS**: S3, EC2, CodePipeline  
-- **Containerization**: Docker  
-- **CI/CD**: GitHub Actions  
-- **APIs**: Flask
-
-**Version Control & Collaboration**  
-- Git, GitHub
-
-
+- <span style="color:green;">**Programming & Databases**: Python (NumPy, Pandas, Scikit-learn), SQL, HTML  
+- <span style="color:green;"> **ML Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn  
+- <span style="color:green;">**Model Development**: Supervised (Classification, Regression), Unsupervised (Clustering, Dimensionality Reduction), Deep Learning (MLP, CNN)  
+- <span style="color:green;">**NLP & Text**: Transformers, spaCy, NLTK, Hugging Face  
+- <span style="color:green;">**Computer Vision**</span>: OpenCV, PyTorch  
+- <span style="color:green;">**Data Processing & Visualization**: Feature engineering, Matplotlib, Seaborn  
+- <span style="color:green;">**Cloud & Deployment**: AWS (S3, EC2, CodePipeline), Docker, GitHub Actions, Flask  
+- <span style="color:green;">**Version Control & Collaboration**</span>: Git, GitHub  
 
 ---
 
-## 📬 Let’s connect
+## 📬 Let’s Connect
 
 - ✉️ Email: [alieh.h94@gmail.com](mailto:alieh.h94@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/aliehhz](https://www.linkedin.com/in/aliehhz)  
